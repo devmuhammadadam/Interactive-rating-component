@@ -7,7 +7,7 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 ![rate-card](/preview/img-1.png)
 ![thank-card](/preview/img-2.png)
 
-- **Live Site**: (https://muhammad-abdusalam.github.io/Interactive-rating-component/)
+- **Live Site**: (https://devmuhammadadam.github.io/Interactive-rating-component/)
 
 ### Built with ⚒️
 
@@ -18,4 +18,4 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 ### Author
 
 - Frontend Mentor - [@Muhammad-adam778](https://www.frontendmentor.io/profile/Muhammad-adam778)
-- Linkedin - [@muhammad-abdusalam](https://www.linkedin.com/in/muhammad-abdusalam)
+- Linkedin - [@devmuhammadadam](https://www.linkedin.com/in/devmuhammadadam)
